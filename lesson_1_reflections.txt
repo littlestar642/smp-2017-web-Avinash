@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The new version ,when compared with the older one using the diff -u command compares the files line by line and helps us to get the difference betwee them on each line basis.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    By having a ready access to the entire history of a file i will get a better idea of the making that has been invoked and can re evaluate my own ideas later.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+firstly,git gives us a independence to commit when we feel like .Secondly,goosle docs saves content of a file one by one automatically whereas in git we can save parts of same version and can complete at our own pace.Git is available offline but google docs is not.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git is mainly used for software development and computer sciency stuff and we know that in computer science we need to track multiple files simulataneously to achieve a goal for ex.Html and css and script files.This is the reason for which i think git allows us to commit multiple files under one commit and thus helps in
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log is used to track all the changes done in a file over the time period and git diff is used to get the difference between specific two commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    With version-control i am getting a control over my mistakes and a chance to edit my creation at different levels.Hence i think using version control provides me chance to take little baby-steps to bulid a code and make something meaningful.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I will like to use git for making different versions of any html file and then modifying them one by one to get the best out of them.
